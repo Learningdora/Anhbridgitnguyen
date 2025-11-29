@@ -18,7 +18,7 @@ function determineGiscusTheme() {
 
   let giscusAttributes = {
     src: "https://giscus.app/client.js",
-    "data-repo": "Learningdora/Anhbridgitnguyen.github.io",
+    "data-repo": "Learningdora/Anhbridgitnguyen",
     "data-repo-id": "",
     "data-category": "Comments",
     "data-category-id": "",
